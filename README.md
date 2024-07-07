@@ -10,8 +10,8 @@ This dataset presents transactions that occurred in two days, where we have 492 
 
 Model Performance - 
 Precision: 99.971%
-Recall: 100.000%
-F1: 99.985%
+Recall: 100.000
+F1: 99.985
 
 ## Getting started
 
